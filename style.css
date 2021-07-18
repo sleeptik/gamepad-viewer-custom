@@ -1,5 +1,5 @@
 .controller.custom {
-    background: url(https://sleeptik.github.io/Skin/base.png);
+    background: url(Skin/base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -7,7 +7,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://sleeptik.github.io/Skin/disconnected.png);
+    background: url(Skin/disconnected.png);
 }
 
 .custom.disconnected div {
@@ -24,7 +24,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://sleeptik.github.io/Skin/triggers.png);
+    background: url(Skin/triggers.png);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://sleeptik.github.io/Skin/bumper.png) no-repeat;
+    background: url(Skin/bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -77,7 +77,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(https://sleeptik.github.io/Skin/touchpad.png) no-repeat center;
+    background: url(Skin/touchpad.png) no-repeat center;
 }
 
 .custom .meta {
@@ -89,7 +89,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(https://sleeptik.github.io/Skin/meta.png) no-repeat center;
+    background: url(Skin/meta.png) no-repeat center;
 }
 
 .custom .arrows {
@@ -101,7 +101,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(https://sleeptik.github.io/Skin/start.png);
+    background: url(Skin/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -133,7 +133,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://sleeptik.github.io/Skin/face.png);
+    background: url(Skin/face.png);
 }
 
 .custom .button.pressed {
@@ -172,7 +172,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(https://sleeptik.github.io/Skin/sticks.png);
+    background: url(Skin/sticks.png);
     height: 94px;
     width: 94px;
 }
@@ -204,7 +204,7 @@
 }
 
 .custom .face {
-    background: url(https://sleeptik.github.io/Skin/dpad.png);
+    background: url(Skin/dpad.png);
     position: absolute;
 }
 
